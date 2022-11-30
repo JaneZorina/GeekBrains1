@@ -1,3 +1,11 @@
-Instraction file
+# First GIT file
 
-hello world
+
+*italic*
+
+**bold**
+
+* first line
+* second line
+* third line
+
