@@ -1,6 +1,5 @@
 # GIT instructions
 
-
 *italic*
 
 **bold**
@@ -14,3 +13,10 @@
  2 line
 
  3 line
+
+ **git status** -current status of repository
+
+ **git init** - create a repository
+
+ **clear**-to clear a terminal 
+ 
