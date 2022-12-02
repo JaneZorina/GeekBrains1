@@ -1,4 +1,4 @@
-# First GIT file
+# GIT instructions
 
 
 *italic*
