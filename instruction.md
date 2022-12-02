@@ -19,4 +19,7 @@
  **git init** - create a repository
 
  **clear**-to clear a terminal 
+
+ ## How to add current changes into repository
+
  
