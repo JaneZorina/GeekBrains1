@@ -34,8 +34,10 @@
 
  ## How to add an image 
 
- ## How to merge a branges
+ In order to input an image you have to wright
+ ![Rocky should ne here](Rocky.jpeg)
+
+ ## How to merge a branches
 
  ## Conflicts within merge
 
- 
