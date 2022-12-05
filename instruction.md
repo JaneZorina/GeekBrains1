@@ -30,3 +30,12 @@
 
  4 **git commit -m "..."** to commit file with a current changes and comments
  
+ ## How to add a branch into GIT file
+
+ ## How to add an image 
+
+ ## How to merge a branges
+
+ ## Conflicts within merge
+
+ 
