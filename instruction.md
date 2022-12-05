@@ -32,6 +32,14 @@
  
  ## How to add a branch into GIT file
 
+ In order to create a new branch, you have to input next command 
+ **git branch ...** (new branch name)
+ 
+ to check a new branch ( a list of branches), you have to input
+**git branch** 
+
+A current branch will be marked with * and color
+
  ## How to add an image 
 
  In order to input an image you have to wright
