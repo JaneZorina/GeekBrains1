@@ -52,9 +52,12 @@ A current branch will be marked with * and color
  ## How to add an image 
 
  In order to input an image you have to wright
- ![Rocky should ne here](Rocky.jpeg)
+ ![Rocky should be here](Rocky.jpeg)
 
  ## How to merge a branches
 
+merge with conflict 
+
  ## Conflicts within merge
 
+merge with conflict 
