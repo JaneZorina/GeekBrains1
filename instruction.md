@@ -1,8 +1,16 @@
 # GIT instructions
 
-*italic*
+In order to hightlight text by italic , you have to put the text into * or _
 
-**bold**
+ *italic* or _italic_
+
+In order to hightlight a text by half bold, you have to put the text into ** or __ 
+
+**bold** or __bold__
+
+Text can be both __bold__ and *italic*, so both tools are used
+
+__*text*__
 
 * first line
 * second line
