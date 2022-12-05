@@ -56,8 +56,14 @@ A current branch will be marked with * and color
 
  ## How to merge a branches
 
+In order to merge into master branch, you have ti input a command 
+**git merge ...**  (branch name to merge)
+
+In order to delete brnch that you didnt need, enter
+ **git branch -d ...** (branch name)
+ 
 merge with conflict 
 
  ## Conflicts within merge
 
-merge with conflict 
+Sometimes within merging could be a conflicts if added text already exists in master branch place. In this case you have to choose manualy  text you need ot choose both of them. 
