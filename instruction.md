@@ -62,7 +62,6 @@ In order to merge into master branch, you have ti input a command
 In order to delete brnch that you didnt need, enter
  **git branch -d ...** (branch name)
  
-merge with conflict 
 
  ## Conflicts within merge
 
