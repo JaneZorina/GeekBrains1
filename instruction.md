@@ -66,3 +66,10 @@ In order to delete brnch that you didnt need, enter
  ## Conflicts within merge
 
 Sometimes within merging could be a conflicts if added text already exists in master branch place. In this case you have to choose manualy  text you need ot choose both of them. 
+
+
+## Workinf with GITHUB
+
+git push
+
+git pull
